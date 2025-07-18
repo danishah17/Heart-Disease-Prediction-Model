@@ -124,16 +124,27 @@ The project generates several informative visualizations:
 
 
 Heart-Disease-Prediction-Model/
+
 │
+
 ├── Heart_Disease.py              # Main script with model training and evaluation
+
 ├── heart_disease_dataset.csv     # Dataset file
+
 ├── heart_disease_model.pkl       # Saved trained model
+
 ├── heart_disease_scaler.pkl      # Saved feature scaler
+
 ├── heart_disease_label_encoders.pkl # Saved label encoders
+
 ├── README.md                     # Project documentation
+
 └── visualization plots/          # Generated visualization files
+
     ├── Plot 1.png
+    
     ├── Plot 2.png
+    
     └── ...
 
 
